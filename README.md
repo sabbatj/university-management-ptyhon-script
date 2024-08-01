@@ -5,7 +5,7 @@ This is an OOP Python script for managing a university system. It includes class
 ## Files
 
 - `university_management.py`: The main script with the class definitions.
-- `test_university_management.py`: Unit tests for the classes and methods in `university_management.py`.
+
 
 ## Running the Script
 
